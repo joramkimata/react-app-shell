@@ -1,0 +1,15 @@
+.login-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    backdrop-filter: blur(6 px);
+    padding: 0 10px;
+    box-sizing: border-box;
+    /*background-color: #eeeef0;*/
+    /*background-image: url("../../assets/bg-image.jpg");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+}
+
